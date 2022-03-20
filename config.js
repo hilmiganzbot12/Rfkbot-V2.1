@@ -15,10 +15,10 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['+1 (775) 403-5736','6289505165400'] // Put your number here //owner eval
-global.kontak = ['+1 (775) 403-5736','6289505165400'] //Ketika ada yang ngetik #owner
+global.owner = ['+1 (864) 210-8663','6282143349069'] // Put your number here //owner eval
+global.kontak = ['+1 (864) 210-8663','6282143349069'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
+global.prems = ['+1 (864) 210-8663','6282143349069','6282331236882'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -45,22 +45,22 @@ zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
+namagithub = 'https://github.com/hilmiganzbot12 :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'AlyaaXzy 1'
-namakontak2 = 'AlyaaXzy 2'
+namakontak1 = 'Black BotZ Official'
+namakontak2 = 'Bot nya bwang'
 
-//kasihcaption = `Nih Kak`
+//kasihcaption = `Nih Kak, Jangan lupa Sv Owner ku Ganteng loh kak `
 
 // Sticker WM
-global.packname = 'By AlyaaXzy' // ganti aja
-global.author = 'AlyaaXzy' // ganti aja
+global.packname = 'By Black BotZ' // ganti aja
+global.author = 'Black BotZ' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //AlyaaXy Broadcast
-footer = '\n©AlyaaXzy'
-namabot = 'AlyaaXzy'
-namalu = 'AlyaaXzy'
+bc = 'Black BotZ' //AlyaaXy Broadcast
+footer = '\n©Black BotZ Official'
+namabot = 'Black BotZ'
+namalu = 'Black BotZ Official'
 
 
 // 
