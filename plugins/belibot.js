@@ -1,21 +1,21 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn }) => {
 	conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'sewa bot')).buffer(), `╠═〘 Beli Bot 〙 ═
-╠➥ *1 Minggu* :     *Rp 15000*
-╠➥ *1 Bulan* :      *Rp 20000*
-╠➥ *2 Bulan* :      *Rp 30000*
-╠➥ *Permanen* : *Rp 40000*
-╠➥ *Owner* :   *Rp 30000*/bln
-╠➥ *Nomer Gopay & pulsa* : 
-║    085730903853
+╠➥ *_Jadibot : 10k/Bulan_*
+╠➥ *_Jadibot : 15k/Manen_*
+╠➥ *_JasaRun : 10k/Bulan_*
+╠➥ *_JasaRun : 20k/Manen_*
+╠➥ *_Sewa bot : ketik .sewa_*
+╠➥ *_Pasang iklan di Black BotZ : 10k/Manen_*
+║    
 ╠═〘 PEMBAYARAN 〙 ═
-╠➥ Dana Dan Pulsa
+╠➥ Qris all pay
 ║
-╠═ Tertarik Untuk Beli Bot Ini?
+╠═ Tertarik Untuk Jadibot?
 ╠➥Ketuk Tombol Di Bawah Ya
 ║
-╠═ ©2021 Rpg wabot-aq
-╠═ Scrip original by Nurutomo
+╠═ ©2022
+╠═ Scrip original by Black BotZ x AlyaXzy
 ╠═〘 AlyaaXzy 〙 ═`.trim(), watermark, 'Dana', '#viadana', 'Pulsa', '#viapulsa', m)
 }
 
