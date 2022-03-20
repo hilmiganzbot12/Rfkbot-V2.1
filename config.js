@@ -18,7 +18,7 @@ global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // gant
 global.owner = ['+1 (864) 210-8663','6282143349069'] // Put your number here //owner eval
 global.kontak = ['+1 (864) 210-8663','6282143349069'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['+1 (864) 210-8663','6282143349069','6282331236882','6285922404374'] // Premium user has unlimited limit
+global.prems = ['+1 (864) 210-8663','6282143349069','6282331236882'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
